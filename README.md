@@ -4,8 +4,7 @@
 <!--not sure if I'm doing this right-->
 
 <head>
-	<title>Description</title>
-
+<!--tired to put <title>DescriptionHere</title> but showed up so I deleted it. Not sure why it was showing the code...-->
 </head>
 
 <body>	
@@ -21,6 +20,7 @@
 		<li>$ git add "name" - **Adds to staging area, adjusting the snapshot</li>
 		<li>$ git commit -m "Present tense descript" - **Takes the snapshot</li>
 		<li>$ git push origin master - Pushes to github repo</li>
+		<li>Basic basic html to write this legibly!</li>
 	</ul>
 
 </body>
