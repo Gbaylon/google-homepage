@@ -1,0 +1,31 @@
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 180px;
+}
+
+input {
+	height: px;
+	padding: 11px 150px;
+	box-sizing: border-box;
+	text-align: left;
+
+} 
+
+input[type=submit] {
+	background-color: #F0F0F0;
+	border: 1px solid #F0F0F0;
+	border-radius: 2px;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	color: #696969;
+	padding: 10px 15px;
+	margin: 10px 3px;
+}
+
+.search {
+	text-align: center;
+}
