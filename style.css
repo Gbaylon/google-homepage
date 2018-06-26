@@ -37,6 +37,59 @@ input[type=submit] {
 	margin: 10px 3px;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 25px;
+	position: absolute;
+	width: 100%;
+	overflow: auto;
+}
+
+li {
+	display: inline;
+	padding: 0px 7px;
+	font-size: 13px;
+	font-family: sans-serif;
+}
+
 .search {
 	text-align: center;
 }
+
+.topleft {
+	text-align: left;
+}
+
+.topright {
+	text-align: right;
+	}
+
+.header {
+	width: 100%;
+	top: 0px;
+	position: fixed;
+}
+
+.footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: #F0F0F0;
+	border: 0px solid #F0F0F0;
+	padding: 25px 5px;
+	margin: 0px;
+
+}
+
+.bottomleft {
+	text-align: left;
+}
+
+.bottomright {
+	text-align: right;
+}
+
+
