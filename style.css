@@ -3,7 +3,8 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 180px;
+	padding-top: 180px;
+	padding-bottom: 10px;
 }
 
 input {
@@ -13,6 +14,14 @@ input {
 	text-align: left;
 
 } 
+
+input[type=text]{
+	background-color: white;
+	background-image: url("https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_63.png?VaW1bs_mipmverkoNocEJNL6BKTHYW.R&itok=ThO1Yh_H");
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-position: 385px 5px;
+}	
 
 input[type=submit] {
 	background-color: #F0F0F0;
