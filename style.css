@@ -8,14 +8,16 @@ img {
 }
 
 input {
-	height: px;
-	padding: 11px 150px;
+	height: 40px;
 	box-sizing: border-box;
 	text-align: left;
+	font-size: 12px;
+	padding-left: 10px;
 
 } 
 
 input[type=text]{
+	width: 420px;
 	background-color: white;
 	background-image: url("https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_63.png?VaW1bs_mipmverkoNocEJNL6BKTHYW.R&itok=ThO1Yh_H");
 	background-repeat: no-repeat;
