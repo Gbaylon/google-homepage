@@ -40,10 +40,9 @@ input[type=submit] {
 ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 25px;
+	padding: 17px;
 	position: absolute;
-	width: 100%;
-	overflow: auto;
+	width: 96%;
 }
 
 li {
@@ -78,10 +77,12 @@ li {
    	bottom: 0;
    	width: 100%;
    	left: 0;
-   	height: 30px;   
+   	height: 15px;   
    	background: #F0F0F0;
    	padding-top: 0;
-   	padding-bottom: 25px;
+   	padding-bottom: 30px;
+   	color: #696969;
+   	border-top: .1px solid #DCDCDC;
 }
 
 .bottomleft {
