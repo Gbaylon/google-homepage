@@ -62,14 +62,17 @@ li {
 
 .topright {
 	text-align: right;
-	}
+}
 
 .header {
-	width: 100%;
+	width: 87%;
 	top: 0px;
 	position: fixed;
 	left: 0px;
+}
 
+.icon {
+	float: right;
 }
 
 .footer {
